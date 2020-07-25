@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I´m just a student who´s interested in coding and developing.
 
-- currently working on an mobile app which should help you to use your time more efficient and get your day organized
+- currently working on an mobile app which helps you to use your time more efficient and get your day organized
 - always tries to get better at programming
 
 
