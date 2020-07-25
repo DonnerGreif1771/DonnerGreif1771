@@ -1,4 +1,9 @@
 ### Hi there 👋
+#### I´m just a student who´s interested in coding and developing.
+
+- currently working on an mobile app which should help you to use your time more efficient and get your day organized
+- always tries to get better at programming
+
 
 <!--
 **DonnerGreif1771/DonnerGreif1771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
